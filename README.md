@@ -34,3 +34,5 @@ roslaunch path_optimizer_2 demo.launch
 - The start state must be ahead of the first reference point.  
 
 ![规划.gif](https://i.loli.net/2020/04/12/XmxgwTGRI1MtoVK.gif)  
+
+This is using by Jiarui Song
